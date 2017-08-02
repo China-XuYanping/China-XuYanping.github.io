@@ -7,7 +7,7 @@
     <li>
       <h3>
         <a href="https://github.com/MissYouAllTheTime/ReadEveryDay">
-          我的第一个开源项目ReadEveryDay       
+我的第一个开源项目ReadEveryDay       
         </a>
       </h3>
     </li>
@@ -15,7 +15,7 @@
      <li>
       <h3>
         <a href="https://github.com/MissYouAllTheTime/RecyclerViewAdapterTest">         
-         简单封装的一个RecyclerViewAdapter
+简单封装的一个RecyclerViewAdapter
           
          功能说明： 1：一键配置RecyclerViewAdapter，免去繁琐的重复配置；
          2：支持多布局Item; 
